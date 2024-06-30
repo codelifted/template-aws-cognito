@@ -1,0 +1,14 @@
+{
+  "app_gads": [
+    {
+      "PutRequest": {
+        "Item": {
+          "ad_account_id": {"S": "NEW"},
+          "workspace_id": {"S": "d7f83ba2-9c7a-4e84-ae4e-47af9ecb9c54"},
+          "access_token": {"S": "ABCDEF123456"},
+          "refresh_token": {"S": "ABCDEF123456"}
+        }
+      }
+    }
+  ]
+}
